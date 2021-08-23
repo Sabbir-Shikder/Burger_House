@@ -1,0 +1,1031 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
+@media (min-width: 1400px) and (max-width: 1660px) {
+    .bottle {
+        left: 90px;
+        bottom: -190px;
+    }
+
+    .footer_cont {
+        margin-top: 300px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+
+    /*====================================
+    banner and header section starting
+    ======================================*/
+    .banner_content h1 {
+        font-size: 100px !important;
+    }
+
+    .banner_content h2 {
+        font-size: 45px !important;
+    }
+
+    /*====================================
+    choose section starting
+    ======================================*/
+    .choose .row .col-lg-4:nth-child(2) .chose_item {
+        margin-top: -51px;
+    }
+
+    /*====================================
+    slider section starting
+    ======================================*/
+    .owl-dots {
+        padding-bottom: 35px;
+    }
+
+    /*====================================
+    form section starting
+    ======================================*/
+    .bottle {
+        left: 60px;
+    }
+
+    .plate {
+        bottom: -455px;
+    }
+
+    /*====================================
+    footer section starting
+    ======================================*/
+    .footer_cont {
+        padding-top: 50px !important;
+    }
+
+    .address {
+        margin-left: 130px;
+    }
+
+    .copyright_sec {
+        padding-top: 80px;
+    }
+
+    .footer_cont {
+        margin-top: 350px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    /*====================================
+    banner and header section starting
+    ======================================*/
+    .banner_content h1 {
+        font-size: 90px !important;
+    }
+
+    .banner_content h2 {
+        font-size: 40px !important;
+    }
+
+    .price_box {
+        width: 150px;
+        height: 150px;
+        left: 18px;
+        bottom: -23px;
+    }
+
+    .price {
+        width: 130px;
+        height: 130px;
+    }
+
+    .banner_content {
+        padding-top: 110px;
+    }
+
+    /*====================================
+    try today section starting
+    ======================================*/
+    .try_txt {
+        padding-left: 20px;
+        padding-top: 20px;
+    }
+
+    .try_txt h3 {
+        font-size: 33px;
+    }
+
+    .try_txt {
+        font-size: 16px !important;
+    }
+
+    .try_image {
+        margin-top: 29px;
+    }
+
+    /*====================================
+    choose section starting
+    ======================================*/
+    .choose .row .col-lg-4:nth-child(2) .chose_item {
+        margin-top: -42px;
+    }
+
+    .choose_cont h2 {
+        font-size: 25px;
+    }
+
+    /*===================================
+    slider section starting
+    ======================================*/
+    .slider_cont {
+        padding: 0;
+    }
+
+    .slider_cont h2 {
+        font-size: 36px;
+    }
+
+    .owl-dots {
+        left: 29px;
+        padding-bottom: 30px;
+    }
+
+    /*====================================
+    form section starting
+    ======================================*/
+    .form_sec {
+        padding-top: 70px;
+    }
+
+    .booking_heading {
+        padding-bottom: 50px;
+    }
+
+    footer {
+        margin-top: 100px;
+    }
+
+    .footer_cont {
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 50px;
+    }
+
+    .address {
+        margin-left: 60px;
+    }
+
+    .street i {
+        padding-right: 20px;
+    }
+
+    .email i {
+        padding-right: 15px;
+    }
+
+    .copyright_sec {
+        padding-top: 60px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    /*====================================
+    banner and header section starting
+    ======================================*/
+    .navbar-light .navbar-toggler {
+        border-color: transparent;
+    }
+
+    .nav-item {
+        padding-right: 0px;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .navbar {
+        padding-top: 15px;
+    }
+
+    .banner_content h1 {
+        font-size: 70px !important;
+        line-height: 110px;
+    }
+
+    .banner_content h2 {
+        font-size: 40px !important;
+    }
+
+    .price_box {
+        width: 120px;
+        height: 120px;
+        left: 18px;
+        bottom: -23px;
+    }
+
+    .dot-box h3 {
+        font-size: 16px;
+    }
+
+    .price {
+        width: 100px;
+        height: 100px;
+    }
+
+    .price h3 {
+        font-size: 40px;
+    }
+
+    .price p {
+        font-size: 20px;
+    }
+
+    .banner_content {
+        padding-top: 80px;
+    }
+
+    /*===================================
+    try today section starting
+    ======================================*/
+    .try_today {
+        padding-top: 50px;
+        padding-bottom: 65px;
+    }
+
+    .try_txt {
+        padding-left: 15px;
+        padding-top: 7px;
+    }
+
+    .try_txt h3 {
+        font-size: 23px;
+    }
+
+    .try_txt p {
+        font-size: 16px !important;
+    }
+
+    .try_image {
+        margin-top: 20px;
+    }
+
+    /*====================================
+    choose section starting
+    ======================================*/
+    .choose {
+        padding-bottom: 50px;
+    }
+
+    .chose_heading h2 {
+        font-size: 40px;
+    }
+
+    .choose .row .col-lg-4:nth-child(2) .chose_item {
+        margin-top: -42px;
+    }
+
+    .choose .row .col-lg-4:last-of-type .chose_item {
+        margin-top: 45px;
+    }
+
+    .choose_cont h2 {
+        font-size: 25px;
+    }
+
+    /*====================================
+    slider section starting
+    ======================================*/
+    .slider_cont {
+        padding: 0;
+        text-align: center;
+    }
+
+    .slider .row {
+        padding-bottom: 100px;
+    }
+
+    .slider_cont h2 {
+        font-size: 36px;
+    }
+
+    .owl-dots {
+        left: 50%;
+        -webkit-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        transform: translateX(-50%);
+        padding-bottom: 40px;
+    }
+
+    /*====================================
+    form section starting
+    ======================================*/
+    .form_sec {
+        padding-top: 70px;
+    }
+
+    .booking_heading {
+        padding-bottom: 50px;
+    }
+
+    /*====================================
+    footer section starting
+    ======================================*/
+    footer {
+        margin-top: 100px;
+    }
+
+    .footer_cont {
+        padding-right: 0;
+        padding-left: 0;
+        padding-top: 40px;
+    }
+
+    .footer_icon {
+        text-align: center;
+    }
+
+    .footer_icon img {
+        padding-bottom: 10px;
+    }
+
+    .address {
+        text-align: center;
+        margin: 0;
+        padding-top: 40px;
+        display: -ms-grid;
+        display: grid;
+        place-items: center;
+    }
+
+    .street i {
+        padding-right: 20px;
+    }
+
+    .email i {
+        padding-right: 15px;
+    }
+
+    .copy_txt,
+    .social_links {
+        text-align: center !important;
+        padding-bottom: 20px;
+    }
+
+    .copyright_sec {
+        padding-top: 40px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+    /*====================================
+    banner and header section starting
+    ======================================*/
+    .navbar-light .navbar-toggler {
+        border-color: transparent;
+    }
+
+    .nav-item {
+        padding-right: 0px;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .navbar {
+        padding-top: 15px;
+    }
+
+    .navbar-brand img {
+        width: 80%;
+    }
+
+    .banner_content h1 {
+        font-size: 55px !important;
+        line-height: 90px;
+    }
+
+    .banner_content h2 {
+        font-size: 30px !important;
+    }
+
+    .price_box {
+        width: 100px;
+        height: 100px;
+        left: 10px;
+        bottom: -30px;
+    }
+
+    .banner_content {
+        padding-top: 40px;
+    }
+
+    .dot-box {
+        text-align: center;
+    }
+
+    .dot-box h3 {
+        font-size: 16px;
+    }
+
+    .price {
+        width: 80px;
+        height: 80px;
+    }
+
+    .price h3 {
+        font-size: 27px;
+    }
+
+    .price h3 span {
+        font-size: 16px;
+    }
+
+    .price p {
+        font-size: 16px;
+        padding-top: 7px !important;
+    }
+
+    /*====================================
+    try today section starting
+    ======================================*/
+    .try_today {
+        padding-top: 50px;
+        padding-bottom: 65px;
+    }
+
+    .try_txt {
+        padding-left: 15px;
+        padding-top: 20px;
+    }
+
+    .try_image {
+        margin-top: 20px;
+    }
+
+    /*====================================
+    choose section starting
+    ======================================*/
+    .choose {
+        padding-bottom: 70px;
+    }
+
+    .choose .row {
+        padding-top: 0px;
+    }
+
+    .chose_heading h2 {
+        padding-top: 15px;
+        font-size: 40px;
+    }
+
+    .chose_item {
+        padding-top: 70px;
+    }
+
+    .choose_cont p {
+        padding-bottom: 20px;
+    }
+
+    /*====================================
+    slider section starting
+    ======================================*/
+    .slider_cont {
+        padding: 0;
+        text-align: center;
+    }
+
+    .slider .row {
+        padding-bottom: 100px;
+    }
+
+    .slider_cont h2 {
+        font-size: 36px;
+    }
+
+    .owl-dots {
+        left: 50%;
+        -webkit-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        transform: translateX(-50%);
+        padding-bottom: 40px;
+    }
+
+    /*====================================
+    form section starting
+    ======================================*/
+    .form_sec {
+        padding-top: 70px;
+    }
+
+    .booking_heading {
+        padding-bottom: 50px;
+    }
+
+    form input[type="submit"] {
+        width: 50%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    /*====================================
+    footer section starting
+    ======================================*/
+    footer {
+        margin-top: 70px;
+    }
+
+    .footer_cont {
+        padding-right: 0;
+        padding-left: 0;
+        padding-top: 40px;
+    }
+
+    .footer_icon {
+        text-align: center;
+    }
+
+    .footer_icon img {
+        padding-bottom: 10px;
+    }
+
+    .address {
+        text-align: center;
+        margin: 0;
+        padding-top: 40px;
+        display: -ms-grid;
+        display: grid;
+        place-items: center;
+    }
+
+    .street i {
+        padding-right: 20px;
+    }
+
+    .email i {
+        padding-right: 15px;
+    }
+
+    .copy_txt,
+    .social_links {
+        text-align: center !important;
+        padding-bottom: 20px;
+    }
+
+    .copyright_sec {
+        padding-top: 40px;
+    }
+}
+
+@media (min-width: 426px) and (max-width: 575px),
+(min-width: 376px) and (max-width: 425px),
+(min-width: 0px) and (max-width: 375px) {
+
+    /*====================================
+    banner and header section starting
+    ======================================*/
+    .navbar-light .navbar-toggler {
+        border-color: transparent;
+    }
+
+    .nav-item {
+        padding-right: 0px;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .navbar {
+        padding-top: 15px;
+    }
+
+    .navbar-brand img {
+        width: 80%;
+    }
+
+    .banner_content h1 {
+        font-size: 75px !important;
+        line-height: 100px;
+    }
+
+    .banner_content h2 {
+        font-size: 45px !important;
+    }
+
+    .price_box {
+        width: 140px;
+        height: 140px;
+        left: 35px;
+        bottom: -30px;
+    }
+
+    .banner_content {
+        padding-top: 40px;
+    }
+
+    .banner_img {
+        width: 80%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .dot-box {
+        text-align: center;
+    }
+
+    .dot-box h3 {
+        font-size: 16px;
+    }
+
+    .price {
+        width: 110px;
+        height: 110px;
+    }
+
+    .price h3 {
+        font-size: 40px;
+    }
+
+    .price h3 span {
+        font-size: 20px;
+    }
+
+    .price p {
+        font-size: 22px;
+    }
+
+    /*====================================
+    try today section starting
+    ======================================*/
+    .try_today {
+        padding-top: 50px;
+        padding-bottom: 65px;
+    }
+
+    .try_txt {
+        padding-left: 20px;
+        padding-top: 10px;
+    }
+
+    .try_image {
+        margin-top: 20px;
+    }
+
+    /*====================================
+    choose section starting
+    ======================================*/
+    .choose {
+        padding-bottom: 70px;
+    }
+
+    .choose .row {
+        padding-top: 0px;
+    }
+
+    .chose_heading h2 {
+        padding-top: 15px;
+        font-size: 40px;
+    }
+
+    .chose_item {
+        padding-top: 70px;
+    }
+
+    .choose_cont p {
+        padding-bottom: 20px;
+    }
+
+    /*====================================
+    slider section starting
+    ======================================*/
+    .slider_cont {
+        padding: 0;
+        text-align: center;
+    }
+
+    .slider .row {
+        padding-bottom: 100px;
+    }
+
+    .slider_cont h2 {
+        font-size: 36px;
+    }
+
+    .owl-dots {
+        left: 50%;
+        -webkit-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        transform: translateX(-50%);
+        padding-bottom: 40px;
+    }
+
+    /*====================================
+    form section starting
+    ======================================*/
+    .form_sec {
+        padding-top: 70px;
+    }
+
+    .booking_heading {
+        padding-bottom: 50px;
+    }
+
+    form input[type="submit"] {
+        width: 50%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    /*====================================
+    footer section starting
+    ======================================*/
+    footer {
+        margin-top: 70px;
+    }
+
+    .footer_cont {
+        padding-right: 0;
+        padding-left: 0;
+        padding-top: 40px;
+    }
+
+    .footer_icon {
+        text-align: center;
+    }
+
+    .footer_icon img {
+        padding-bottom: 10px;
+    }
+
+    .address {
+        text-align: center;
+        margin: 0;
+        padding-top: 40px;
+        display: -ms-grid;
+        display: grid;
+        place-items: center;
+    }
+
+    .street i {
+        padding-right: 20px;
+    }
+
+    .email i {
+        padding-right: 15px;
+    }
+
+    .copy_txt,
+    .social_links {
+        text-align: center !important;
+        padding-bottom: 20px;
+    }
+
+    .copyright_sec {
+        padding-top: 40px;
+    }
+}
+
+@media (min-width: 376px) and (max-width: 425px) {
+
+    /*====================================
+    banner and header section starting
+    ======================================*/
+    .banner_content h1 {
+        font-size: 70px !important;
+    }
+
+    .banner_content h2 {
+        font-size: 40px !important;
+    }
+
+    .price_box {
+        width: 125px;
+        height: 125px;
+        left: 0px;
+        bottom: -46px;
+    }
+
+    .price {
+        width: 95px;
+        height: 95px;
+    }
+
+    .price h3 {
+        font-size: 35px;
+    }
+
+    .price p {
+        font-size: 18px;
+    }
+
+    /*====================================
+    try today section starting
+    ======================================*/
+    .try_today {
+        padding-top: 50px;
+        padding-bottom: 65px;
+    }
+
+    .try_txt {
+        padding-left: 15px;
+        padding-top: 7px;
+    }
+
+    .try_txt h3 {
+        font-size: 30px;
+    }
+
+    .try_txt p {
+        font-size: 20px !important;
+    }
+
+    .try_image {
+        margin-top: 20px;
+    }
+
+    /*====================================
+    choose section starting
+    ======================================*/
+    .chose_heading h2 {
+        font-size: 36px;
+    }
+
+    .choose_cont h2 {
+        font-size: 30px;
+    }
+
+    .choose_cont a {
+        width: 165px;
+        height: 55px;
+    }
+
+    /*====================================
+    slider section starting
+    ======================================*/
+    .slider .row {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .slider .row {
+        padding-bottom: 75px;
+    }
+
+    .slider_cont h2 {
+        font-size: 31px;
+    }
+
+    .owl-dots {
+        padding-bottom: 30px;
+    }
+
+    /*====================================
+    form section starting
+    ======================================*/
+    .booking_heading h2 {
+        font-size: 36px;
+    }
+}
+
+@media (min-width: 0px) and (max-width: 375px) {
+
+    /*====================================
+    banner and header section starting
+    ======================================*/
+    .navbar-brand {
+        width: 60%;
+    }
+
+    .banner_content h1 {
+        font-size: 60px !important;
+    }
+
+    .banner_content h2 {
+        font-size: 35px !important;
+    }
+
+    .banner_img {
+        width: 100% !important;
+    }
+
+    .price_box {
+        width: 125px;
+        height: 125px;
+        left: 10px;
+        bottom: -46px;
+    }
+
+    .price {
+        width: 95px;
+        height: 95px;
+    }
+
+    .price h3 {
+        font-size: 35px;
+    }
+
+    .price p {
+        font-size: 18px;
+    }
+
+    /*====================================
+    try today section starting
+    ======================================*/
+    .try_today {
+        padding-top: 50px;
+        padding-bottom: 65px;
+    }
+
+    .try_txt {
+        padding-left: 15px;
+        padding-top: 7px;
+    }
+
+    .try_txt h3 {
+        font-size: 25px;
+    }
+
+    .try_txt p {
+        font-size: 17px !important;
+    }
+
+    .try_image {
+        margin-top: 20px;
+    }
+
+    /*====================================
+    choose section starting
+    ======================================*/
+    .chose_heading h2 {
+        font-size: 28px;
+    }
+
+    .choose_cont h2 {
+        font-size: 25px;
+    }
+
+    .choose_cont a {
+        width: 165px;
+        height: 55px;
+    }
+
+    /*====================================
+    slider section starting
+    ======================================*/
+    .slider .row {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .slider .row {
+        padding-bottom: 75px;
+    }
+
+    .slider_cont h2 {
+        font-size: 22px;
+    }
+
+    .slider_cont h3 {
+        font-size: 20px;
+    }
+
+    .owl-dots {
+        padding-bottom: 30px;
+    }
+
+    /*====================================
+    form section starting
+    ======================================*/
+    .booking_heading h2 {
+        font-size: 26px;
+    }
+
+    .booking_heading h3 {
+        font-size: 20px;
+    }
+
+    form input[type="submit"] {
+        width: 70%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    /*====================================
+    form section starting
+    ======================================*/
+    .footer_icon p {
+        font-size: 17px;
+    }
+
+    .address p {
+        font-size: 16px;
+    }
+
+    .copy_txt p {
+        font-size: 16px;
+    }
+}
